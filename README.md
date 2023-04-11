@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there...👋 I am Omid and I am interested in artificial intelligence 😄 
+
 
 <!--
 **hopedeveloper08/hopedeveloper08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
