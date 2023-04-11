@@ -1,17 +1,14 @@
 ### Hi there...👋 I am Omid and I am interested in artificial intelligence 😄 
+<br>
+<h1 align="center">my professional skills</h1>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=python&perline=3" />
+</p>
 
 
-<!--
-**hopedeveloper08/hopedeveloper08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+<h1 align="center">my abilities</h1>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,django&perline=5" />
+</p>
