@@ -10,5 +10,5 @@
 <br>
 <h1 align="center">my abilities</h1>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,django,flask,fastapi,&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,django,fastapi,&perline=7" />
 </p>
