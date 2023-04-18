@@ -2,7 +2,7 @@
 <br>
 <h1 align="center">my professional skills</h1>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python&perline=3" />
+    <img src="https://skillicons.dev/icons?i=python,react&perline=3" />
 </p>
 
 
@@ -10,5 +10,5 @@
 <br>
 <h1 align="center">my abilities</h1>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,django,fastapi,&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,django&perline=7" />
 </p>
