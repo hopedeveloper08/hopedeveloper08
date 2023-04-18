@@ -1,4 +1,4 @@
-### Hi there...👋 I am Omid web application developer and I am interested in artificial intelligence 😄 
+### Hi there...👋 I am Omid, a web application developer and I am interested in artificial intelligence 😄
 <br>
 <h1 align="center">my professional skills</h1>
 <p align="center">
