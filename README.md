@@ -14,7 +14,7 @@ my best 🧑‍💻:  <a href="https://python.org"><img src="https://www.vectorl
 
 <br>
 
-<h3>Web & Application Development:</h3>
+<h3>Web Development:</h3>
 
 <h4>Front-end: </h4>
 
