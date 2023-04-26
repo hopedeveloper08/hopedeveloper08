@@ -5,12 +5,14 @@ my best 🧑‍💻:  <a href="https://python.org"><img src="https://www.vectorl
 
 <h1 align="center">📚 Skills</h1>
 
-<h3>AI/ML :</h3>
+<h3>AI/ML/DataScience :</h3>
 <h4>Libraries:</h4>
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+<p>
+<img src="https://avatars.githubusercontent.com/u/288276?s=88&v=4" width=64 height=64 />
+<img src="https://avatars.githubusercontent.com/u/21206976?s=88&v=4" width=64 height=64 />
+<img src="https://avatars.githubusercontent.com/u/215947?s=88&v=4" width=64 height=64 />
+</p>
 
 <br>
 
@@ -18,17 +20,19 @@ my best 🧑‍💻:  <a href="https://python.org"><img src="https://www.vectorl
 
 <h4>Front-end: </h4>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+<p>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width=64 height=64 />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width=64 height=64 />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width=54 height=54 />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width=60 height=60 />
+</p>
 
 <h4>Back-end: </h4>
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+<p>
+<img src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" width=64 height=64 />
+<img src="https://www.django-rest-framework.org/img/logo.png" width=100 height=64 />
+</p>
 
 <br>
 
