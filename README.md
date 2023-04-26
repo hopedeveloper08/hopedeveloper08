@@ -1,8 +1,11 @@
 # Hi there...👋 I am Omid
-### I am a computer engineering student and interested in artificial intelligence 😄
+## I am a computer engineering student and interested in artificial intelligence 😄
 <br>
-my best 🧑‍💻:  <a href="https://python.org"><img src="https://www.vectorlogo.zone/logos/python/python-official.svg" /></a>
 
+### my best 🧑‍💻: 
+<p align="center"> <a href="https://python.org"><img src="https://www.vectorlogo.zone/logos/python/python-official.svg" /></a> </p>
+
+<br />
 <h1 align="center">📚 Skills</h1>
 
 <h3>AI/ML/DataScience :</h3>
