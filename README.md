@@ -1,35 +1,16 @@
 # Hi there...👋 I am Omid <br /><br /> I am a computer engineering student and interested in artificial intelligence 😄 <br /><br /> <p align="center">📚 Skills</p>
 
-<h3>Popular and specialized language :<h3>
+<h3>Favorit and specialized language :</h3>
 <p align="center">
 <a href="https://python.org"><img src="https://www.vectorlogo.zone/logos/python/python-official.svg" /></a>
-<p>
-  
-<h3>AI/ML/DataScience :</h3>
-<h4>Libraries:</h4>
-<p align="center">
-<img src="https://avatars.githubusercontent.com/u/288276?s=88&v=4" width=64 height=64 />
-<img src="https://avatars.githubusercontent.com/u/21206976?s=88&v=4" width=64 height=64 />
-<img src="https://avatars.githubusercontent.com/u/215947?s=88&v=4" width=64 height=64 />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" width=64 height=64 />
 </p>
 
-<br>
-
 <h3>Web Development:</h3>
-
-<h4>Front-end: </h4>
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width=64 height=64 />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width=64 height=64 />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width=54 height=54 />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width=60 height=60 />
-</p>
-
-<h4>Back-end: </h4>
-
-<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width=54 height=58 />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width=64 height=64 />
 <img src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" width=64 height=64 />
 <img src="https://www.django-rest-framework.org/img/logo.png" width=100 height=64 />
 </p>
