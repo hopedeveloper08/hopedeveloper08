@@ -1,17 +1,13 @@
-# Hi there...👋 I am Omid
-## I am a computer engineering student and interested in artificial intelligence 😄
-<br>
+# Hi there...👋 I am Omid <br /><br /> I am a computer engineering student and interested in artificial intelligence 😄 <br /><br /> <p align="center">📚 Skills</p>
 
-### my best 🧑‍💻: 
-<p align="center"> <a href="https://python.org"><img src="https://www.vectorlogo.zone/logos/python/python-official.svg" /></a> </p>
-
-<br />
-<h1 align="center">📚 Skills</h1>
-
+<h3>Popular and specialized language :<h3>
+<p align="center">
+<a href="https://python.org"><img src="https://www.vectorlogo.zone/logos/python/python-official.svg" /></a>
+<p>
+  
 <h3>AI/ML/DataScience :</h3>
 <h4>Libraries:</h4>
-
-<p>
+<p align="center">
 <img src="https://avatars.githubusercontent.com/u/288276?s=88&v=4" width=64 height=64 />
 <img src="https://avatars.githubusercontent.com/u/21206976?s=88&v=4" width=64 height=64 />
 <img src="https://avatars.githubusercontent.com/u/215947?s=88&v=4" width=64 height=64 />
@@ -24,7 +20,7 @@
 
 <h4>Front-end: </h4>
 
-<p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width=64 height=64 />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width=64 height=64 />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width=54 height=54 />
@@ -33,7 +29,7 @@
 
 <h4>Back-end: </h4>
 
-<p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" width=64 height=64 />
 <img src="https://www.django-rest-framework.org/img/logo.png" width=100 height=64 />
 </p>
@@ -42,7 +38,7 @@
 
 <h3>Tools :</h3>
 
-<p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png" width=50 height=50 />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width=50 height=50 />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png?20210821050414" width=50 height=50 />
