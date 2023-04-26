@@ -12,6 +12,7 @@ my best 🧑‍💻:  <a href="https://python.org"><img src="https://www.vectorl
 <img src="https://avatars.githubusercontent.com/u/288276?s=88&v=4" width=64 height=64 />
 <img src="https://avatars.githubusercontent.com/u/21206976?s=88&v=4" width=64 height=64 />
 <img src="https://avatars.githubusercontent.com/u/215947?s=88&v=4" width=64 height=64 />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" width=64 height=64 />
 </p>
 
 <br>
@@ -39,10 +40,9 @@ my best 🧑‍💻:  <a href="https://python.org"><img src="https://www.vectorl
 <h3>Tools :</h3>
 
 <p>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width=64 height=64 />
-<img src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png" width=64 height=64 />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width=54 height=54 />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width=60 height=60 />
+<img src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png" width=50 height=50 />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width=50 height=50 />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png?20210821050414" width=50 height=50 />
 </p>
 
 <br>
