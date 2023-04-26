@@ -1,11 +1,11 @@
 # Hi there...👋 I am Omid <br /><br /> I am a computer engineering student and interested in artificial intelligence 😄 <br /><br /> <p align="center">📚 Skills</p>
 
-<h3>Favorit and specialized language :</h3>
+<h3>💜 Favorit and specialized language :</h3>
 <p align="center">
 <a href="https://python.org"><img src="https://www.vectorlogo.zone/logos/python/python-official.svg" /></a>
 </p>
 
-<h3>Web Development:</h3>
+<h3>🌐 Web Development :</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width=64 height=64 />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width=64 height=64 />
@@ -17,7 +17,7 @@
 
 <br>
 
-<h3>Tools :</h3>
+<h3>⚙️ Tools :</h3>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png" width=50 height=50 />
