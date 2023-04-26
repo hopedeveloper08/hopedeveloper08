@@ -11,7 +11,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width=64 height=64 />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width=54 height=58 />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width=64 height=64 />
-<img src="https://files.dimagi.com/wp-content/uploads/2016/01/Django.png" width=64 height=64 />
+<img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" width=80 height=64 />
 <img src="https://www.django-rest-framework.org/img/logo.png" width=100 height=64 />
 </p>
 
