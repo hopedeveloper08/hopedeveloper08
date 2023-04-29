@@ -1,6 +1,6 @@
-# Hi there...👋 I am Omid <br /><br /> I am a computer engineering student and my activities are in the fields of software engineering, artificial intelligence, and web applications development... 😄 <br /><br /> <p align="center">📚 Skills</p>
+# Hi there...👋 I am Omid <br /><br /> I am a computer engineering student and my activities are in the field of artificial intelligence, and web applications development... 😄 <br /><br /> <p align="center">📚 Skills</p>
 
-<h3>💜 Favorit and specialized language :</h3>
+<h3>💜 Favorit & specialized language :</h3>
 <p align="center">
 <a href="https://python.org"><img src="https://www.vectorlogo.zone/logos/python/python-official.svg" /></a>
 </p>
