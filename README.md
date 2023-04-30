@@ -7,7 +7,7 @@
 
 <br />
 
-<h3>🧠 AI/ML/DL/Data science :</h3>
+<h3>🧠 AI/ML :</h3>
 <p align="center">
 <img src="https://avatars.githubusercontent.com/u/288276?s=88&v=4" width=64 height=64 />
 <!-- <img src="https://avatars.githubusercontent.com/u/21206976?s=88&v=4" width=64 height=64 />
