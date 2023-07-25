@@ -1,16 +1,49 @@
-### Hi there 👋
+# Hi there...👋 I am Omid <br /><br /> I am a computer engineering student and my activities are in the field of artificial intelligence, and web applications development... 😄 <br /><br /> <p align="center">📚 Expertise Skills</p>
 
-<!--
-**hopedeveloper08/hopedeveloper08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>💜 Favorit & Specialized Language :</h3>
+<p align="center">
+<a href="https://python.org"><img src="https://www.vectorlogo.zone/logos/python/python-official.svg" /></a>
+</p>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🧠 Artificial Intelligence & Machine Learning & Deep Learning :</h3>
+<p align="center">
+<img src="https://avatars.githubusercontent.com/u/288276?s=88&v=4" width=64 height=64 />
+<img src="https://avatars.githubusercontent.com/u/21206976?s=88&v=4" width=64 height=64 />
+</p> 
+
+<br />
+
+<h3>🌐 Web Application Development :</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width=64 height=64 />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width=64 height=64 />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width=54 height=58 />
+<img src="https://flask.palletsprojects.com/es/latest/_static/flask-vertical.png" width=54 height=64 />
+<img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" width=64 height=64 />
+<img src="https://inlab.fib.upc.edu/sites/default/files/styles/large/public/field/image/django-rest-framework.jpg" width=80 height=54 />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width=64 height=64 />
+</p>
+
+<br />
+
+<h3>⚙️ Tools :</h3>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png" width=58 height=58 />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png?20210821050414" width=58 height=56 />
+</p>
+
+<br>
+
+<h1 align="center">💬 Social</h1>
+
+<p align="center">
+<a href="https://t.me/hopedeveloper"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://instagram.com/omid_shz008"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://wa.me/9172255301"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/hopedeveloper/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:hopedeveloper08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
