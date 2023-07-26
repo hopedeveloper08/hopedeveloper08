@@ -1,38 +1,44 @@
 # Hi there...👋 I am Omid <br /><br /> I am a computer engineering student and my activities are in the field of artificial intelligence, and web applications development... 😄 <br /><br /> <p align="center">📚 Expertise Skills</p>
 
-<h3>💜 Favorit & Specialized Language :</h3>
+<h3>💜 Favorit Programming Language:</h3>
 <p align="center">
-<a href="https://python.org"><img src="https://www.vectorlogo.zone/logos/python/python-official.svg" /></a>
+<a href="https://python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width=120 height=128 /></a>
 </p>
-
 <br />
 
 <h3>🧠 Artificial Intelligence & Machine Learning & Deep Learning :</h3>
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/288276?s=88&v=4" width=64 height=64 />
-<img src="https://avatars.githubusercontent.com/u/21206976?s=88&v=4" width=64 height=64 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width=64 height=64 />    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width=64 height=64 />
 </p> 
 
 <br />
 
-<h3>🌐 Web Application Development :</h3>
+<h3>🌐 Web Application Development:</h3>
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width=64 height=64 />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width=64 height=64 />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width=54 height=58 />
-<img src="https://flask.palletsprojects.com/es/latest/_static/flask-vertical.png" width=54 height=64 />
-<img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" width=64 height=64 />
-<img src="https://inlab.fib.upc.edu/sites/default/files/styles/large/public/field/image/django-rest-framework.jpg" width=80 height=54 />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width=64 height=64 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=64 height=64 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=64 height=64 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=64 height=64 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width=64 height=64 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width=64 height=64  />    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width=64 height=64 />
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width=64 height=64 /> -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width=64 height=64 /> -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width=64 height=64 /> -->
+          
+          
 </p>
 
 <br />
 
-<h3>⚙️ Tools :</h3>
+<h3>⚙️ Tools:</h3>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png" width=58 height=58 />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png?20210821050414" width=58 height=56 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=64 height=64 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width=64 height=64 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=64 height=64  />         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width=64 height=64 />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png?20210821050414" width=64 height=64 />
 </p>
 
 <br>
