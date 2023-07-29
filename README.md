@@ -13,7 +13,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="120" height="128" />
 </p>
 
-<br />
+<img src="https://img.shields.io/badge/-1D5D9B" width="100%" height="2px" />
 
 <h3 align="center"><img alt="Static Badge" src="https://img.shields.io/badge/Software%20engineering-0B666A" width="250" height="40" /></h3>
 <p align="center">
@@ -25,7 +25,7 @@
           <img src="https://camo.githubusercontent.com/b7ad7cac555039dcfec2b891b31aa61ab5e185c0241c499143dd38f96a8acbfa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f556e69742054657374696e672d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d556e697454657374696e67266c6f676f436f6c6f723d7768697465" width="128" height="48" />
 </p>
 
-<br />
+<img src="https://img.shields.io/badge/-1D5D9B" width="100%" height="2px" />
 
 <h3 align="center"><img src="https://img.shields.io/badge/Back--end & Database-0B666A" width="250" height="40" ></h3>
 <p align="center">
@@ -39,7 +39,7 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="64" height="64" />
 </p>
 
-<br />
+<img src="https://img.shields.io/badge/-1D5D9B" width="100%" height="2px" />
 
 <h3 align="center"><img src="https://img.shields.io/badge/Front--end-0B666A" width="130" height="40" />
 </h3>
@@ -54,7 +54,7 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Qt_logo_2013.svg/851px-Qt_logo_2013.svg.png" width="64" height="64" />
 </p>
 
-<br />
+<img src="https://img.shields.io/badge/-1D5D9B" width="100%" height="2px" />
 
 <h3 align="center"><img alt="Static Badge" src="https://img.shields.io/badge/AI%20%26%20Data%20Sciense-0B666A" width="200" height="40" /></h3>
 <p align="center">
@@ -67,7 +67,7 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="64" height="64" />
 </p>
 
-<br />
+<img src="https://img.shields.io/badge/-1D5D9B" width="100%" height="2px" />
 
 <h3 align="center"><img alt="Static Badge" src="https://img.shields.io/badge/Tools-0B666A" width="80" height="40" /></h3>
 <p align="center">
