@@ -8,14 +8,14 @@
 
 <h1 align="center"> Skills </h1>
 
-<h3 align="center">My favorite and professional programming language</h3>
+<h3 align="center"><img src="https://img.shields.io/badge/My%20favorite%20and%20professional%20programming%20language-0B666A" width="500" height="40"  /></h3>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="120" height="128" />
 </p>
 
 <br />
 
-<h3 align="center">Software engineering</h3>
+<h3 align="center"><img alt="Static Badge" src="https://img.shields.io/badge/Software%20engineering-0B666A" width="250" height="40" /></h3>
 <p align="center">
           <img src="https://camo.githubusercontent.com/236e0f497d2d315f7c0498a2a32e9d32a9598b342f0622b753bae8b6a78d2311/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446562756767696e672d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d446562756767696e67266c6f676f436f6c6f723d7768697465" width="128" height="48" />
           <img src="https://camo.githubusercontent.com/ab99082b08bffa126d9d2611d4bf2975caee67d7599f065820e5b8cebbd98329/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265666163746f72696e672d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d5265666163746f72696e67266c6f676f436f6c6f723d7768697465" width="128" height="48" />
@@ -27,21 +27,7 @@
 
 <br />
 
-<h3 align="center">Front-end</h3>
-<p align="center">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="64" height="64" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="64" height="64" />
-          <img src="https://skillicons.dev/icons?i=bootstrap&perline=3" width="64" height="64" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="64" height="64" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="64" height="64" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64" height="64" />
-          <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png?20200822223506" width="64" height="64" />
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Qt_logo_2013.svg/851px-Qt_logo_2013.svg.png" width="64" height="64" />
-</p>
-
-<br />
-
-<h3 align="center">Back-end & Database</h3>
+<h3 align="center"><img src="https://img.shields.io/badge/Back--end & Database-0B666A" width="250" height="40" ></h3>
 <p align="center">
           <img src="https://skillicons.dev/icons?i=django&perline=3" width="64" height="64" />
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNvKvqZERkLgYzhwf70Iux6BElBonP2OCX4YdIKfPb-11LUbMuBzhUUqLygSuxGQwb9e4&usqp=CAU" width="64" height="64" />
@@ -55,7 +41,22 @@
 
 <br />
 
-<h3 align="center">AI & Data Sciense</h3>
+<h3 align="center"><img src="https://img.shields.io/badge/Front--end-0B666A" width="130" height="40" />
+</h3>
+<p align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="64" height="64" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="64" height="64" />
+          <img src="https://skillicons.dev/icons?i=bootstrap&perline=3" width="64" height="64" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="64" height="64" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="64" height="64" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64" height="64" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png?20200822223506" width="64" height="64" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Qt_logo_2013.svg/851px-Qt_logo_2013.svg.png" width="64" height="64" />
+</p>
+
+<br />
+
+<h3 align="center"><img alt="Static Badge" src="https://img.shields.io/badge/AI%20%26%20Data%20Sciense-0B666A" width="200" height="40" /></h3>
 <p align="center">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="64" height="64" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="64" height="64" />
@@ -68,7 +69,7 @@
 
 <br />
 
-<h3 align="center">Tools</h3>
+<h3 align="center"><img alt="Static Badge" src="https://img.shields.io/badge/Tools-0B666A" width="80" height="40" /></h3>
 <p align="center">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="64" height="64" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="64" height="64" />
