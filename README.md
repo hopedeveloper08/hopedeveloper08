@@ -1,9 +1,22 @@
-# Hi there...👋 I am Omid <br /><br /> I am a computer engineering student and my activities are in the field of artificial intelligence, and web applications development... 😄 <br /> Favorit & Professional Programming Language <a href="https://python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width=120 height=128 /></a> <br /><br /><br /> <p align="center">📚 Skills</p>
+<h1 align="center">Hi there...👋  I am Omid </h1>
+
+<ul>
+          <li>I follow Python development professionally</li>
+          <li>Software engineering student</li>
+          <li>Interested in artificial intelligence</li>
+</ul>
+
+<h1 align="center"> Skills </h1>
+
+<h3 align="center">My favorite and professional programming language</h3>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="120" height="128" />
+</p>
 
 <br />
 
-<h3>Software Engineering: </h3>
-<p>
+<h3 align="center">Software engineering</h3>
+<p align="center">
           <img src="https://camo.githubusercontent.com/236e0f497d2d315f7c0498a2a32e9d32a9598b342f0622b753bae8b6a78d2311/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446562756767696e672d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d446562756767696e67266c6f676f436f6c6f723d7768697465" width="128" height="48" />
           <img src="https://camo.githubusercontent.com/ab99082b08bffa126d9d2611d4bf2975caee67d7599f065820e5b8cebbd98329/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265666163746f72696e672d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d5265666163746f72696e67266c6f676f436f6c6f723d7768697465" width="128" height="48" />
           <img src="https://camo.githubusercontent.com/69c3442a2b301071735f258e2fd44ef3d10d0e8097e1e3ea16af8afab22ff123/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f626a656374204f7269656e7465642050726f6772616d6d696e672d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4f4f50266c6f676f436f6c6f723d7768697465" width="256" height="48" />
@@ -14,11 +27,11 @@
 
 <br />
 
-<h3>Front-end: </h3>
-<p>
+<h3 align="center">Front-end</h3>
+<p align="center">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="64" height="64" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="64" height="64" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="64" height="64" />
+          <img src="https://skillicons.dev/icons?i=bootstrap&perline=3" width="64" height="64" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="64" height="64" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="64" height="64" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64" height="64" />
@@ -28,22 +41,22 @@
 
 <br />
 
-<h3>Back-end & Database: </h3>
-<P>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="64" height="64" />
+<h3 align="center">Back-end & Database</h3>
+<p align="center">
+          <img src="https://skillicons.dev/icons?i=django&perline=3" width="64" height="64" />
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNvKvqZERkLgYzhwf70Iux6BElBonP2OCX4YdIKfPb-11LUbMuBzhUUqLygSuxGQwb9e4&usqp=CAU" width="64" height="64" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="64" height="64" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="64" height="64" />
+          <img src="https://skillicons.dev/icons?i=flask&perline=3" width="64" height="64" />
+          <img src="https://skillicons.dev/icons?i=fastapi&perline=3" width="64" height="64" />
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Swagger-logo.png/150px-Swagger-logo.png" width="64" height="64" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="64" height="64" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="64" height="64" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="64" height="64" />
-</P>
+</p>
 
 <br />
 
-<h3>AI & Data Sciense: </h3>
-<P>
+<h3 align="center">AI & Data Sciense</h3>
+<p align="center">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="64" height="64" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="64" height="64" />
           <img src="https://matplotlib.org/_static/images/documentation.svg" width="64" height="64" />
@@ -51,12 +64,12 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="64" height="64" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="64" height="64" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="64" height="64" />
-</P>
+</p>
 
 <br />
 
-<h3>Tools: </h3>
-<P>
+<h3 align="center">Tools</h3>
+<p align="center">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="64" height="64" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="64" height="64" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="64" height="64" />
@@ -65,9 +78,10 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"  width="64" height="64" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="64" height="64" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="64" height="64"  />
-</P>
+</p>
 
 <br />
+
 
 <h1 align="center">💬 Social</h1>
 <p align="center">
