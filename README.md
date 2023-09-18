@@ -15,6 +15,19 @@
 
 <img src="https://img.shields.io/badge/-1D5D9B" width="100%" height="2px" />
 
+<h3 align="center"><img alt="Static Badge" src="https://img.shields.io/badge/AI%20%26%20Data%20Sciense-0B666A" width="200" height="40" /></h3>
+<p align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="64" height="64" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="64" height="64" />
+          <img src="https://matplotlib.org/_static/images/documentation.svg" width="64" height="64" />
+          <img src="https://camo.githubusercontent.com/69ce21304adac467a8251181f98932e1785abd9d718cdd8edc78d1abbf2dcb49/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f302f30352f5363696b69745f6c6561726e5f6c6f676f5f736d616c6c2e737667" width="64" height="64" />          
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="64" height="64" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" width="64" height="64" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="64" height="64" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="64" height="64" />
+</p>
+<img src="https://img.shields.io/badge/-1D5D9B" width="100%" height="2px" />
+
 <h3 align="center"><img alt="Static Badge" src="https://img.shields.io/badge/Software%20engineering-0B666A" width="250" height="40" /></h3>
 <p align="center">
           <img src="https://camo.githubusercontent.com/236e0f497d2d315f7c0498a2a32e9d32a9598b342f0622b753bae8b6a78d2311/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446562756767696e672d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d446562756767696e67266c6f676f436f6c6f723d7768697465" width="128" height="48" />
@@ -52,19 +65,6 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64" height="64" />
           <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png?20200822223506" width="64" height="64" />
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Qt_logo_2013.svg/851px-Qt_logo_2013.svg.png" width="64" height="64" />
-</p>
-
-<img src="https://img.shields.io/badge/-1D5D9B" width="100%" height="2px" />
-
-<h3 align="center"><img alt="Static Badge" src="https://img.shields.io/badge/AI%20%26%20Data%20Sciense-0B666A" width="200" height="40" /></h3>
-<p align="center">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="64" height="64" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="64" height="64" />
-          <img src="https://matplotlib.org/_static/images/documentation.svg" width="64" height="64" />
-          <img src="https://camo.githubusercontent.com/69ce21304adac467a8251181f98932e1785abd9d718cdd8edc78d1abbf2dcb49/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f302f30352f5363696b69745f6c6561726e5f6c6f676f5f736d616c6c2e737667" width="64" height="64" />          
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="64" height="64" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="64" height="64" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="64" height="64" />
 </p>
 
 <img src="https://img.shields.io/badge/-1D5D9B" width="100%" height="2px" />
