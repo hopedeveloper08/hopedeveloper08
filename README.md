@@ -9,7 +9,7 @@
 
 <p h2 align="center">
 
-- ### Expertise programming language:
+- ### Expert in these programming language:
  <p>
  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
  </p>
