@@ -19,6 +19,7 @@ Interested in artificial intelligence
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width=64 height=64 />  
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width=64 height=64 />
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/128px-Created_with_Matplotlib-logo.svg.png?20150219130408" width=64 height=64 />
+            <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width=64 height=64 />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width=64 height=64 />
   </p>
 
@@ -34,7 +35,6 @@ Interested in artificial intelligence
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=64 height=64 />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=64 height=64 />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=64 height=64 />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=64 height=64 />
             <img src="https://camo.githubusercontent.com/c96cb99431280ee1fdce3fe6b5338c5aca7bcaf94331b7426803ac9b426f6cef/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f646a616e676f2e737667" width=64 height=64 />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width=64 height=64 />
   </p>
