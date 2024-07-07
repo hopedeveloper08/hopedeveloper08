@@ -1,16 +1,48 @@
-### Hi there 👋
+<h1 align="center" style="border: none;">Hi there...👋  I am Omid</h1>
 
-<!--
-**hopedeveloper08/hopedeveloper08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Personal Information
+- **FullName:** Reza Shahraki
+- **Specialization:** Artificial Intelligence
+- **Location:** Shiraz, Iran
+- **Born:** 2001-08-08
+- **Email:** [hopedeveloper08@gmail.com](mailto:hopedeveloper08@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Career Objective
+Enthusiastic and dedicated computer engineering student with a deep passion for Artificial Intelligence. Skilled in Python and proficient in various AI domains including data science, machine learning algorithms, deep learning, neural networks, computer vision, and natural language processing. Experienced in web application development and software engineering practices. Eager to leverage my skills and knowledge to contribute to innovative AI projects and advancements, aiming to grow into a specialist role in Artificial Intelligence.
+
+
+## Skills
+
+### Programming Languages
+- Python
+
+### AI
+- **Machine Learning:** Numpy, Pandas, Scikit-learn
+- **Deep Learning:** Keras, Tensorflow, PyTorch
+
+### Web Application Development
+- **Frameworks:** Django, Flask
+- **Fornend:** HTML5, Bootstrap5, Jinja2
+- **Database:** PostgreSQL
+
+### Tools
+- Git
+- Docker
+- Linux
+
+
+## Projects
+
+### [CryptoCurrency Exchange](https://github.com/hopedeveloper08/crypto_currency_exchange)
+
+## Certifications
+
+![Backend](backend.jpg)
+
+![Data analysis](data_analysis.jpg)
+
+![Machine learning](machine_learning.jpg)
+
+
