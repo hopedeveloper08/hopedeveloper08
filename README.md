@@ -21,6 +21,8 @@ Enthusiastic and dedicated computer engineering student with a deep passion for 
 ### AI
 - **Machine Learning:** Numpy, Pandas, Scikit-learn
 - **Deep Learning:** Keras, Tensorflow, PyTorch
+- **Computer Vision:** OpenCV
+- **Natural Language Processing:** NLTK, hazm
 
 ### Web Application Development
 - **Frameworks:** Django, Flask
@@ -39,10 +41,10 @@ Enthusiastic and dedicated computer engineering student with a deep passion for 
 
 ## Certifications
 
-![Backend](backend.jpg)
+![Backend with Django](django.jpg)
 
-![Data analysis](data_analysis.jpg)
+![Data analysis with Python](data_analysis.jpg)
 
 ![Machine learning](machine_learning.jpg)
 
-
+![Deep learning](deep_learning.jpg)
