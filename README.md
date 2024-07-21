@@ -16,13 +16,13 @@ Enthusiastic and dedicated computer engineering student with a deep passion for 
 ## Skills
 
 ### Programming Languages
-- Python
+- **Python**
 
 ### AI
-- **Machine Learning:** Numpy, Pandas, Scikit-learn
-- **Deep Learning:** Keras, Tensorflow, PyTorch
-- **Computer Vision:** OpenCV
-- **Natural Language Processing:** NLTK, hazm
+- **Machine Learning**
+- **Deep Learning**
+- **Computer Vision**
+- **Natural Language Processing**
 
 ### Web Application Development
 - **Frameworks:** Django, Flask
@@ -30,9 +30,9 @@ Enthusiastic and dedicated computer engineering student with a deep passion for 
 - **Database:** PostgreSQL
 
 ### Tools
-- Git
-- Docker
-- Linux
+- **Git**
+- **Docker**
+- **Linux**
 
 
 ## Projects
