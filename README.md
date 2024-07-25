@@ -3,22 +3,18 @@
 
 ## Personal Information
 - **FullName:** Reza Shahraki
-- **Specialization:** Machine Learning Engineer
+- **Specialization:** Artificial intelligence specialist
 - **Location:** Shiraz, Iran
 - **Born:** 2001-08-08
 - **Email:** [hopedeveloper08@gmail.com](mailto:hopedeveloper08@gmail.com)
 - **kaggle:** [omid008](https://www.kaggle.com/omid008)
-
-## Career Objective
-Machine learning engineer with several years of experience in designing, developing, and implementing machine learning models and data analysis. Expertise in supervised and unsupervised learning algorithms, big data processing, and use of advanced frameworks such as TensorFlow and PyTorch. With experience working on various projects including natural language processing, machine vision, and recommender systems. Interested in using analytical and programming skills to solve complex problems and improve systems efficiency.
-
 
 ## Skills
 
 ### Programming Languages
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-### Machine Learning
+### AI
 ![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit_learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
