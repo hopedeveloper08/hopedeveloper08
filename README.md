@@ -1,16 +1,48 @@
-## Hi there 👋
+# Reza Shahraki
 
-<!--
-**hopedeveloper08/hopedeveloper08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Email](mailto:hopedeveloper08@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hopdeveloper) | [GitHub](https://github.com/hopedeveloper08)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Summary
+
+Django developer with 1+ years of experience in developing web applications, APIs, and microservices. Proficient in python and back-end development using Django, with strong expertise in RESTful services and databases. Passionate about clean, maintainable code and best practices in software development. familiar with machine learning and deep learning with Python.
+
+--- 
+
+## Skills
+
+- **Programming language**: Python 
+- **Frameworks**: Django, DRF (Django REST Framework), FastAPI, Flask  
+- **Databases**: PostgreSQL, MongoDB, SQLite  
+- **Tools**: Git, Docker 
+- **Other**: Unit Testing
+
+---
+
+## Experience
+
+### Python Developer  
+**Vira** — Rafsanjan, Iran  
+_november 2023 - january 2024_  
+
+---
+
+## Education
+
+**Bachelor's Degree in Computer Engineering**  
+University Name — Rafsanjan, Iran  
+_2021 - 2025_
+
+---
+
+## Certifications
+
+- [Project-oriented course in backend with Django](https://quera.org/media/public/quera_certificate/7fe22a73e978449dba17d1ee6dcfc029.jpg) — Quera, 2023  
+
+---
+
+## Projects
+
+- [crypto_currency_exchange](https://github.com/hopedeveloper08/crypto_currency_exchange)
+- [handwritten_digit_recognition](https://github.com/hopedeveloper08/handwritten_digit_recognition)
