@@ -1,6 +1,9 @@
-# Reza Shahraki
-
-[Email](mailto:hopedeveloper08@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hopdeveloper) | [GitHub](https://github.com/hopedeveloper08)
+## Personal Information
+- **FullName:** Reza Shahraki
+- **Specialization:** Back-End Developer
+- **Location:** Shiraz, Iran
+- **Born:** 2001-08-08
+- **Email:** [hopedeveloper08@gmail.com](mailto:hopedeveloper08@gmail.com)
 
 ---
 
@@ -22,8 +25,8 @@ Django developer with 1+ years of experience in developing web applications, API
 
 ## Experience
 
-### Python Developer  
-**Vira** — Rafsanjan, Iran  
+**Python developer**
+Vira — Rafsanjan, Iran  
 _november 2023 - january 2024_  
 
 ---
@@ -31,7 +34,7 @@ _november 2023 - january 2024_
 ## Education
 
 **Bachelor's Degree in Computer Engineering**  
-University Name — Rafsanjan, Iran  
+Vali-E-Asr — Rafsanjan, Iran  
 _2021 - 2025_
 
 ---
