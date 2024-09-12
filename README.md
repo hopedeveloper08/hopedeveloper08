@@ -1,25 +1,26 @@
 ## Personal Information
 - **FullName:** Reza Shahraki
-- **Specialization:** Back-End Developer
+- **Specialization:** Backend Developer with Python/Django 
 - **Location:** Shiraz, Iran
-- **Born:** 2001-08-08
+- **Born:** 08-08-2001
 - **Email:** [hopedeveloper08@gmail.com](mailto:hopedeveloper08@gmail.com)
+- **Github** [hopedeveloper08](https://github.com/hopedeveloper08/)
 
 ---
 
 ## Summary
 
-Django developer with 1+ years of experience in developing web applications, APIs, and microservices. Proficient in python and back-end development using Django, with strong expertise in RESTful services and databases. Passionate about clean, maintainable code and best practices in software development. familiar with machine learning and deep learning with Python.
+Django developer with 1+ years of experience in developing web applications, APIs, and microservices. Proficient in python and back-end development using Django, with experience in RESTful services and databases. Passionate about clean, maintainable, test code and best practices in software development. familiar with machine learning.
 
 --- 
 
-## Skills
+## Abilities
 
-- **Programming language**: Python 
-- **Frameworks**: Django, DRF (Django REST Framework), FastAPI, Flask  
-- **Databases**: PostgreSQL, MongoDB, SQLite  
-- **Tools**: Git, Docker 
-- **Other**: Unit Testing
+- Python scripts development
+- Web application and microservice development with Django, Flask
+- API development with DRF (Django Rest Framework), FastAPI
+- Web user interface development with HTML and Bootstrap5
+- Development of machine learning models
 
 ---
 
@@ -41,7 +42,8 @@ _2021 - 2025_
 
 ## Certifications
 
-- [Project-oriented course in backend with Django](https://quera.org/media/public/quera_certificate/7fe22a73e978449dba17d1ee6dcfc029.jpg) — Quera, 2023  
+- [Backend with Django](https://quera.org/media/public/quera_certificate/7fe22a73e978449dba17d1ee6dcfc029.jpg) — Quera, 2023  
+- [Machine learning](https://quera.org/media/public/quera_certificate/52acee178beb4aa58aabf3a783a039e7.jpg) — Quera, 2024
 
 ---
 
@@ -49,3 +51,5 @@ _2021 - 2025_
 
 - [crypto_currency_exchange](https://github.com/hopedeveloper08/crypto_currency_exchange)
 - [handwritten_digit_recognition](https://github.com/hopedeveloper08/handwritten_digit_recognition)
+
+---
