@@ -19,7 +19,7 @@ Python developer with 1+ years of experience in developing web applications, API
 
 - Scripting and service creation with Python
 - Web application development with Django
-- API services development with Django Rest Framework (DRF), FastAPI
+- RESTful API services development with Django Rest Framework (DRF), FastAPI
 - Building machine learning models
 
 ---
