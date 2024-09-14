@@ -1,4 +1,5 @@
 ## Personal Information
+
 - **FullName:** Reza Shahraki
 - **Specialization:** Backend Developer with Python/Django 
 - **Location:** Shiraz, Iran
@@ -8,19 +9,18 @@
 
 ---
 
-## Summary
+## About me
 
-Django developer with 1+ years of experience in developing web applications, APIs, and microservices. Proficient in python and back-end development using Django, with experience in RESTful services and databases. Passionate about clean, maintainable, test code and best practices in software development. familiar with machine learning.
+Python developer with 1+ years of experience in developing web applications, APIs, and microservices. Proficient in python and back-end development using Django, with experience in RESTful services and databases. Passionate about clean, maintainable, test code and best practices in software development. familiar with machine learning.
 
 --- 
 
 ## Abilities
 
-- Python scripts development
-- Web application and microservice development with Django, Flask
-- API development with DRF (Django Rest Framework), FastAPI
-- Web user interface development with HTML and Bootstrap5
-- Development of machine learning models
+- Scripting with Python
+- Web application development with Django
+- API services development with Django Rest Framework (DRF), FastAPI
+- Building machine learning models
 
 ---
 
@@ -42,7 +42,7 @@ _2021 - 2025_
 
 ## Certifications
 
-- [Backend with Django](https://quera.org/media/public/quera_certificate/7fe22a73e978449dba17d1ee6dcfc029.jpg) — Quera, 2023  
+- [Backend with Django](https://quera.org/media/public/quera_certificate/7fe22a73e978449dba17d1ee6dcfc029.jpg) — Quera, 2023 
 - [Machine learning](https://quera.org/media/public/quera_certificate/52acee178beb4aa58aabf3a783a039e7.jpg) — Quera, 2024
 
 ---
