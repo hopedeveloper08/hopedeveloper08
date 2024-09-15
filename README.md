@@ -1,7 +1,7 @@
 ## Personal Information
 
 - **FullName:** Reza Shahraki
-- **Specialization:** Back-end Developer with Python/Django 
+- **Specialization:** Back-end Developer with Django 
 - **Location:** Shiraz, Iran
 - **Born:** 08-08-2001
 - **Email:** [hopedeveloper08@gmail.com](mailto:hopedeveloper08@gmail.com)
@@ -11,7 +11,7 @@
 
 ## Summary
 
-Python developer with 1+ years of experience in developing web applications, APIs, and microservices. Proficient in python and back-end development using Django, with experience in RESTful services and databases. Passionate about clean, maintainable, test code and best practices in software development. familiar with machine learning. 
+Django developer with 1+ years of experience in developing web applications, APIs, and microservices. Proficient in python and back-end development using Django, with experience in RESTful services with DRF and databases. Passionate about clean, maintainable, test code and best practices in software development. familiar with machine learning. 
 
 --- 
 
