@@ -51,5 +51,6 @@ _2021 - 2025_
 
 - [crypto_currency_exchange](https://github.com/hopedeveloper08/crypto_currency_exchange)
 - [handwritten_digit_recognition](https://github.com/hopedeveloper08/handwritten_digit_recognition)
-
+- [blog_API](https://github.com/hopedeveloper08/blog_API)
+  
 ---
