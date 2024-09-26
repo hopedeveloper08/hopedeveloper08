@@ -1,11 +1,20 @@
 ## Personal Information
 
 - **FullName:** Reza Shahraki
-- **Specialization:** Software engineering 
 - **Location:** Shiraz, Iran
 - **Born:** 08-08-2001
 - **Email:** [hopedeveloper08@gmail.com](mailto:hopedeveloper08@gmail.com)
 - **Github** [hopedeveloper08](https://github.com/hopedeveloper08/)
+
+---
+
+## Skills
+
+- **Programing language:** Python (Advanced)
+- **Web application and API:** Django, DRF, HTML, Bootstrap
+- **Data Science:** Numpy, Pandas, Matplotlib, Seaborn
+- **Machine learning:** Scikit-learn, Keras
+- **Tools:** Git
 
 ---
 
