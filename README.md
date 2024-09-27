@@ -2,7 +2,7 @@
 
 - **FullName:** Reza Shahraki
 - **Location:** Shiraz, Iran
-- **Specialization:** Machine learning engineerenig
+- **Specialization:** Machine learning engineering
 - **Born:** 08-08-2001
 - **Email:** [hopedeveloper08@gmail.com](mailto:hopedeveloper08@gmail.com)
 - **Github** [hopedeveloper08](https://github.com/hopedeveloper08/)
