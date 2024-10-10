@@ -2,7 +2,6 @@
 
 - **FullName:** Reza Shahraki
 - **Location:** Shiraz, Iran
-- **Specialization:** Machine learning engineering
 - **Born:** 08-08-2001
 - **Email:** [hopedeveloper08@gmail.com](mailto:hopedeveloper08@gmail.com)
 - **Github** [hopedeveloper08](https://github.com/hopedeveloper08/)
@@ -12,9 +11,9 @@
 ## Skills
 
 - **Programing language:** Python (Advanced)
+- **Web application and API:** Django, DRF
 - **Data science:** Numpy, Pandas, Matplotlib
 - **Machine learning:** Scikit-learn, Keras
-- **Web application and API:** Django, DRF
 - **Tools:** Git, Google Colab, ChatGPT
 
 ---
