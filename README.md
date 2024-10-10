@@ -10,11 +10,11 @@
 
 ## Skills
 
-- **Programing language:** Python (Advanced)
-- **Web application and API:** Django, DRF
+- **Programing language:** Python (Advanced), JS (Basic), Java(Basic)
+- **Web application and API:** Django, DRF, Bootstrap5
 - **Data science:** Numpy, Pandas, Matplotlib
 - **Machine learning:** Scikit-learn, Keras
-- **Tools:** Git, Google Colab, ChatGPT
+- **Tools:** Git, ChatGPT
 
 ---
 
