@@ -1,6 +1,7 @@
 ## Personal Information
 
 - **FullName:** Reza Shahraki
+- **specialized field:** Software engineering
 - **Location:** Shiraz, Iran
 - **Born:** 08-08-2001
 - **Email:** [hopedeveloper08@gmail.com](mailto:hopedeveloper08@gmail.com)
