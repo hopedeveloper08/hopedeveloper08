@@ -1,7 +1,7 @@
 ## Personal Information
 
 - **FullName:** Reza Shahraki
-- **specialized field:** Software engineering
+- **specialized field:** Deep Learning Engineer
 - **Location:** Shiraz, Iran
 - **Born:** 08-08-2001
 - **Email:** [hopedeveloper08@gmail.com](mailto:hopedeveloper08@gmail.com)
@@ -16,6 +16,7 @@
 - **Web service and API:** DRF, FastAPI
 - **Data science:** Numpy, Pandas, Matplotlib
 - **Machine learning:** Scikit-learn, Keras
+- **Deep learning:** PyTorch
 - **Tools:** Git, ChatGPT
 
 ---
