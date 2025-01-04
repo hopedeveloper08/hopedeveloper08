@@ -1,7 +1,7 @@
 ## Personal Information
 
 - **FullName:** Reza Shahraki
-- **specialized field:** AI
+- **Specialized field:** AI
 - **Location:** Shiraz, Iran
 - **Born:** 08-08-2001
 - **Email:** [hopedeveloper08@gmail.com](mailto:hopedeveloper08@gmail.com)
@@ -51,5 +51,6 @@ _2021 - 2025_
 - [handwritten_digit_recognition](https://github.com/hopedeveloper08/handwritten_digit_recognition)
 - [blog_API](https://github.com/hopedeveloper08/blog_API)
 - [blog_web_application](https://github.com/hopedeveloper08/blog_web_application)
+- [book_store_database](https://github.com/hopedeveloper08/book_store_database)
 
 ---
