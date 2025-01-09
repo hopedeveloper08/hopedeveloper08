@@ -43,6 +43,7 @@ _2021 - 2025_
 - [Machine learning](https://quera.org/media/public/quera_certificate/52acee178beb4aa58aabf3a783a039e7.jpg) — Quera, 2024
 - [Deep learning](https://quera.org/media/public/quera_certificate/7c21e93251584f1aa8b604cb05736e6a.jpg) — Quera, 2024
 - [NLP](https://quera.org/media/public/quera_certificate/065056b525d8403bbdab55a7b7312754.jpg) — Quera, 2025
+- [Telegram Bot](https://quera.org/media/public/quera_certificate/cf61c98a5c884ef7bb9e4e368cc28cde.jpg) — Quera, 2025
 
 ---
 
