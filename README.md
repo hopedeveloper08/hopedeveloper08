@@ -1,16 +1,36 @@
-## Hi there 👋
+## Personal Information
 
-<!--
-**hopedeveloper08/hopedeveloper08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **FullName:** Reza Shahraki
+- **Specialized field:** AI
+- **Location:** Shiraz, Iran
+- **Born:** 08-08-2001
+- **Email:** [hopedeveloper08@gmail.com](mailto:hopedeveloper08@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Programming:** Python
+- **Machine Learning:** Numpy, Pandas, Scikit-learn, Keras
+- **Web development and API:** Django, DRF
+- **LLM:** LangChain
+
+---
+
+## Experience
+
+**Python developer**
+Vira — Rafsanjan, Iran  
+_november 2023 - january 2024_  
+
+**Backend Developer in IT Department**  
+Vali-E-Asr University — Rafsanjan, Iran  
+_september 2024 - june 2025_
+
+---
+
+## Education
+
+**Bachelor's Degree in Computer Engineering**  
+Vali-E-Asr — Rafsanjan, Iran  
+_2021 - 2025_
