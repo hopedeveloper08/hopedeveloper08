@@ -1,7 +1,7 @@
 ## Personal Information
 
 - **FullName:** Reza Shahraki
-- **Specialized field:** AI
+- **Specialized field:** Artificial intelligence
 - **Location:** Shiraz, Iran
 - **Born:** 08-08-2001
 - **Email:** [hopedeveloper08@gmail.com](mailto:hopedeveloper08@gmail.com)
@@ -11,9 +11,10 @@
 ## Skills
 
 - **Programming:** Python
-- **Machine Learning:** Numpy, Pandas, Scikit-learn, Keras
 - **Web development and API:** Django, DRF
-- **LLM:** LangChain
+- **Machine Learning:** Pandas, Scikit-learn
+- **Deep Learning:** Keras, PyTorch
+- **LLM:** LangChain, Prompt engineering
 
 ---
 
