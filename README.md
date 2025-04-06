@@ -16,8 +16,8 @@ My interest in logic, reasoning, science, and technology has always drawn me tow
 ## Skills
 
 - **Programming:** Python
-- **Machine Learning:** Numpy, Pandas, Scikit-learn
-- **Deep Learning:** PyTorch, TensorFlow
+- **Machine Learning:** Numpy, Pandas, Matplotlib, Scikit-learn
+- **Deep Learning:** PyTorch, Hugging face
 - **LLM Application:** LangChain, Prompt engineering
 - **Web development and API:** Django, DRF
   
@@ -31,7 +31,11 @@ _november 2023 - january 2024_
 
 **Backend Developer in IT Department**  
 Vali-E-Asr University — Rafsanjan, Iran  
-_september 2024 - june 2025_
+_september 2024 - february 2025_
+
+**AI Developer in IT Department**  
+Vali-E-Asr University — Rafsanjan, Iran  
+_march 2024 - now_
 
 ---
 
