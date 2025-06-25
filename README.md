@@ -6,7 +6,7 @@
 ---
 
 ## Professional Profile  
-**Passionate **AI Engineer** with expertise in building **decision-making agent systems** that bridge language understanding and predictive analytics. Proven ability to deliver solutions automating complex business processes through architectures like **multi-agent RAG** and **LLM+ML hybrid pipelines**. Deploying AI services with Django.
+Passionate **AI Engineer** with expertise in building **decision-making agent systems** that bridge language understanding and predictive analytics. Proven ability to deliver solutions automating complex business processes through architectures like **multi-agent RAG** and **LLM+ML hybrid pipelines**. Deploying AI services with Django.
 **Approach:** Focuses on *"Problem → Agent Architecture → Measurable Outcome"* cycles rather than isolated technologies.
 
 ---
