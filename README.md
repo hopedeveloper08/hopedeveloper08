@@ -1,48 +1,51 @@
-## Personal Information
-
-- **FullName:** Reza Shahraki
-- **Specialized field:** Artificial Intelligence Engineer
-- **Location:** Shiraz, Iran
-- **Born:** 08-08-2001
-- **Email:** [hopedeveloper08@gmail.com](mailto:hopedeveloper08@gmail.com)
-- **LinkedIn:** [reza-shahraki](https://www.linkedin.com/in/reza-shahraki)
+# Reza Shahraki  
+**AI Engineer | Intelligent Systems Developer**  
+📍 Shiraz, Iran · 📧 [hopedeveloper08@gmail.com](mailto:hopedeveloper08@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/reza-shahraki) · 🎂 08 August 2001  
 
 ---
 
-## About me
-MBTI Personality: ENTJ-A <br>
-My interest in logic, reasoning, science, and technology has always drawn me towards the world of artificial intelligence. I strive to combine science and technology to create intelligent models capable of solving complex problems and real-world challenges. My goal is to use these technologies to improve the quality of human life and create innovative and efficient solutions. I am eager to collaborate and grow alongside teams and individuals who, like me, are striving for personal growth and advancement of humanity through technology. If you are also seeking intelligence models and a progressive future in your technologies, you can count on my help and collaboration.
+## Professional Profile  
+**Passionate **AI Engineer** with expertise in building **decision-making agent systems** that bridge language understanding and predictive analytics. Proven ability to deliver solutions automating complex business processes through architectures like **multi-agent RAG** and **LLM+ML hybrid pipelines**. Deploying AI services with Django.
+**Approach:** Focuses on *"Problem → Agent Architecture → Measurable Outcome"* cycles rather than isolated technologies.
 
 ---
 
-## Skills
+**Intelligent Agent Systems**  
+- Designing autonomous agents using `LangChain` for multi-step problem-solving  
+- Developing **RAG pipelines** with dynamic knowledge integration (text + structured data)  
+- Building agent-based architectures for **decision automation**
 
-- **Programming:** Python
-- **Machine Learning:** Numpy, Pandas, Matplotlib, Scikit-learn
-- **Deep Learning:** PyTorch, Hugging face
-- **LLM Application:** LangChain, Prompt engineering, RAG system
-- **Web development and API:** Django, DRF
-  
+**ML/DL Engineering**  
+- Training ML/DL models
+- Training & fine-tuning **transformer-based models**
+- Integrating **predictive models** (`scikit-learn`, `Pytorch`) with LLM reasoning  
+
+**Web Application Development**  
+- Developing backend services with `Django`
+
 ---
 
-## Experience
+## Professional Experience  
 
-**Python Developer**
-Vira — Rafsanjan, Iran  
-_november 2023 - january 2024_  
+### **AI Engineer** | Vali-E-Asr University  
+📍 Rafsanjan, Iran · 📅 March 2025 - Present  
 
-**Backend Developer in IT Department**  
-Vali-E-Asr University — Rafsanjan, Iran  
-_september 2024 - february 2025_
+### **Backend Developer** | Vali-E-Asr University  
+📍 Rafsanjan, Iran · 📅 September 2024 - February 2025  
 
-**AI Developer in IT Department**  
-Vali-E-Asr University — Rafsanjan, Iran  
-_march 2025 - now_
+### **Python Developer** | Vira  
+📍 Rafsanjan, Iran · 📅 November 2023 - January 2024  
 
 ---
 
 ## Education
 
-**Bachelor's Degree in Computer Engineering**  
-Vali-E-Asr — Rafsanjan, Iran  
-_2021 - 2025_
+**Bachelor of Computer Engineering**  
+Vali-E-Asr University, Rafsanjan, Iran · 2021 - 2025 
+
+## Technical Proficiencies  
+
+`LangChain` · `RAG Systems` · `Prompt Engineering` · `HuggingFace`  
+`Machine Learning` · `Scikit-Learn` · `Deep Learning` · `PyTorch`  
+`Python` · `Django` · `API Development`
