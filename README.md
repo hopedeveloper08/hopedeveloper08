@@ -26,18 +26,56 @@ AI Engineer specialized in Large Language Models (LLMs) and RAG systems. Proven 
 
 ---
 
+## PROJECTS
+
+### LLM Applications
+
+1. **University Chatbot (RAG-based)**
+   - Developed an LLM application answering staff/student queries using university regulations.
+   - *Tech:* LangChain, Ollama, FAISS, Hugging Face Transformers, Django.
+
+2. **Tutor Assistant Chatbot (RAG)**
+   - Built an educational LLM bot resolving student questions based on lecture notes/books.
+   - *Tech:* LangChain, Ollama, FAISS, Hugging Face Transformers, Streamlit.
+
+3. **Cryptocurrency Analyzer**
+   - Dual-system: Technical analysis (Python, Pandas, TA-Lib) + news crawler and analysis with LLM.
+
+### ML/DL Project Portfolio
+- Completed 20+ projects (computer vision, NLP, predictive modeling) via Professional Project-Oriented Courses in ML/DL.
+
+### Web Applications
+
+1. **E-commerce Platform (mr-bin.ir)**
+   - Full-stack development of a marketplace with vendor portals, payment integration, and customer orders.
+   - *Tech:* Django, Bootstrap5.
+
+2. **Crypto Exchange Web App**
+   - Implemented real-time trading, user authentication, and price tracking for digital assets.
+   - *Tech:* Django, JWT, Bootstrap5.
+
+3. **Bookstore CRUD API**
+   - RESTful API for book inventory management (create/read/update/delete operations).
+
+4. **University Service APIs**
+   - Custom API solutions for academic systems (data retrieval/automation).
+
+---
+
 ## Professional Experience  
 
-### **AI Engineer**
-Vali-E-Asr University  
+**AI Engineer**<br>
+Vali-E-Asr University<br>
 2025 
 
-### **Backend Developer**
-Vali-E-Asr University  
+
+**Backend Developer**<br>
+Vali-E-Asr University<br>
 2024
 
-### **Python Developer**
-Vira
+
+**Python Developer**<br> 
+Vira<br>
 2023
 
 ---
