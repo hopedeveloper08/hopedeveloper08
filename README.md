@@ -5,13 +5,12 @@
 
 ---
 
-## Professional Profile  
-Passionate **AI Engineer** with expertise in building **decision-making agent systems** that bridge language understanding and predictive analytics. Proven ability to deliver solutions automating complex business processes through architectures like **multi-agent RAG** and **LLM+ML hybrid pipelines**. Deploying AI services with Django.
-
-**Approach:** Focuses on *"Problem → Agent Architecture → Measurable Outcome"* cycles rather than isolated technologies.
+## About me
+AI Engineer specialized in Large Language Models (LLMs) and RAG systems. Proven ability to design, train, and deploy ML/DL models to solve real-world problems. Skilled in developing intelligent AI assistants and scalable web applications using Django. Combines 4 years of Python programming with a focus on delivering end-to-end AI and Application solutions.
 
 ---
 
+## Capabilities
 **Intelligent Agent Systems**  
 - Designing autonomous agents using `LangChain` for multi-step problem-solving  
 - Developing **RAG pipelines** with dynamic knowledge integration (text + structured data)  
@@ -29,21 +28,27 @@ Passionate **AI Engineer** with expertise in building **decision-making agent sy
 
 ## Professional Experience  
 
-### **AI Engineer** | Vali-E-Asr University  
-📍 Rafsanjan, Iran · 📅 March 2025 - Present  
+### **AI Engineer**
+Vali-E-Asr University  
+2025 
 
-### **Backend Developer** | Vali-E-Asr University  
-📍 Rafsanjan, Iran · 📅 September 2024 - February 2025  
+### **Backend Developer**
+Vali-E-Asr University  
+2024
 
-### **Python Developer** | Vira  
-📍 Rafsanjan, Iran · 📅 November 2023 - January 2024  
+### **Python Developer**
+Vira
+2023
 
 ---
 
 ## Education
 
 **Bachelor of Computer Engineering**  
-Vali-E-Asr University, Rafsanjan, Iran · 2021 - 2025 
+Vali-E-Asr University, Rafsanjan
+2025
+
+---
 
 ## Technical Proficiencies  
 
