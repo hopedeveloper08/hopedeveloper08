@@ -13,13 +13,15 @@ I'm a Artificial Intelligence Engineering passionate about Machine Learning, Dee
 ## Technical Skills  
 
 ### AI 
+
 - **Python:** NumPy, Pandas, Matplotlib
 - **Machine Learning and Deep Learning:** Data preprocessing, Model training & Evaluation (Scikit-learn, PyTorch, Keras)
 - **LLM:** LangChain, RAG systems, Transformers, HuggingFace, Ollama
 
 ### Web Application
-**Backend:** Django, Django REST Framework, FastAPI
-**Frontend:** React.js, Bootstrap5
+
+- **Backend:** Django, Django REST Framework, FastAPI
+- **Frontend:** React.js, Bootstrap5
 
 ---
 
