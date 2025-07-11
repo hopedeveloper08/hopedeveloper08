@@ -1,34 +1,33 @@
 # Reza Shahraki  
-**NLP Engineer | Natural Language Processing Engineer**  
+**AI Engineer | Artificial Intelligence Engineer**  
 📍 Shiraz, Iran · 📧 [hopedeveloper08@gmail.com](mailto:hopedeveloper08@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/reza-shahraki) · 🎂 08 August 2001  
 
 ---
 
 ## About me
-NLP Engineer specialized in Large Language Models (LLMs) and RAG systems. Proven ability to design, train, and deploy ML/DL models to solve real-world problems. Skilled in developing intelligent AI assistants and scalable web applications using Django. Combines 4 years of Python programming with a focus on delivering end-to-end AI and Application solutions.
+I'm a Artificial Intelligence Engineering passionate about Machine Learning, Deep Learning and LLM. I enjoy solving complex problems, building intelligent systems, and constantly pushing the boundaries of what's possible with data and algorithms. While I have hands-on experience in web development using Django and React, my primary focus is on advancing my expertise in AI to build smart, scalable, and impactful solutions. 
 
 ---
 
 ## Technical Skills  
 
-**NLP & Large Language Models (LLMs)**  
-- **Modern NLP**: Transformers, Fine-Tuning, RAG Systems, Prompt Engineering
-- **Frameworks**: Hugging Face, LangChain, Ollama, spaCy, NLTK, Hazm
+### AI 
+- **Python:** NumPy, Pandas, Matplotlib
+- **Machine Learning and Deep Learning:** Data preprocessing, Model training & Evaluation (Scikit-learn, PyTorch, Keras)
+- **LLM:** LangChain, RAG systems, Transformers, HuggingFace, Ollama
 
-**Machine Learning & Deep Learning**  
-- **Core**: Supervised/Unsupervised Learning, Model Evaluation, Hyperparameter Tuning  
-- **Deep Learning**: CNN, RNN/LSTM, Transformers  
-- **Frameworks**: PyTorch, Scikit-learn, Keras
-
-**Software Engineering**  
-- **Skills**: Web Application Development, Agile Methodology, Programming and OOP
-- **Frameworks**: Django, Bootstrap5
+### Web Application
+**Backend:** Django, Django REST Framework, FastAPI
+**Frontend:** React.js, Bootstrap5
 
 ---
 
 ## PROJECTS
 
+### AI
+
+### Web Application
 
 ---
 
