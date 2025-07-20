@@ -14,35 +14,48 @@ I'm an AI engineer passionate about building practical intelligent systems. I sp
 
 ## Technical Skills  
 
+### Machine Learning
 
+- **Data analysis and preparation** Numpy, Pandas, Matplotlib
+- **Model selection, Training and Evaluation:** Scikit-learn
+- **Problems:** Regression, Classification, Clustering, Dimensionality Reduction
+
+### Web Application
+
+- **FullStack:** Django, Bootstrap5 
+- **AI Web App:** Streamlit  
 
 ---
 
 ## Projects
 
+### Machine Learning
+
+- [Data Analysis](https://github.com/hopedeveloper08/data-analysis)
+
+### Web Application
+
+- [cryptocurrency-exchange](https://github.com/hopedeveloper08/cryptocurrency-exchange)
+- [mr-bin.ir (online store)](https://mr-bin.ir/)
 
 ---
 
 ## Professional Experience  
 
 **AI Developer**<br>
-Vali-E-Asr University<br>
-2025 
+Vali-E-Asr University - 2025 
 
 
 **Backend Developer**<br>
-Vali-E-Asr University<br>
-2024
+Vali-E-Asr University - 2024
 
 
 **Python Developer**<br> 
-Vira<br>
-2023
+Vira - 2023
 
 ---
 
 ## Education
 
 **Bachelor of Computer Engineering**  
-Vali-E-Asr University, Rafsanjan
-2025
+Vali-E-Asr University, Rafsanjan - 2025
