@@ -15,23 +15,30 @@ I'm an AI engineer passionate about building practical intelligent systems. I sp
 ## Technical Skills  
 
 ### Machine Learning
+- Supervised Learning: Regression, Classification
+- Unsupervised Learning: Clustering, Dimensionality Reduction
+- Tools: scikit-learn
 
-- **Data analysis and preparation** Numpy, Pandas, Matplotlib
-- **Model selection, Training and Evaluation:** Scikit-learn
-- **Problems:** Regression, Classification, Clustering, Dimensionality Reduction
+### Data Analysis & Preprocessing
+- Data cleaning, feature engineering, Exploratory Data Analysis (EDA)
+- Tools: NumPy, Pandas, Matplotlib
 
-### Web Application
-
-- **FullStack:** Django, Bootstrap5 
-- **AI Web App:** Streamlit  
+### LLM-Based Applications
+- ChatBots, assistants, RAG systems
+- prompt engineering
+- Tools: LangChain, Ollama
+ 
+### Web Applications
+- Backend: Django, Django Rest Framework (API)
+- Frontend: HTML, Bootstrap5, jQuery 
 
 ---
 
 ## Projects
 
-### Machine Learning
+### Data Analysis
 
-- [Data Analysis](https://github.com/hopedeveloper08/data-analysis)
+- [3 projects and 6 mini-projects with Quera](https://github.com/hopedeveloper08/data-analysis)
 
 ### Web Application
 
