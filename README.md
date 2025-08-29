@@ -1,6 +1,6 @@
 # Reza Shahraki  
 
-**Software Engineer | Full-Stack Developer (React & Django)**  
+**Software Engineer | Front-End Developer**  
 📍 Shiraz, Iran · 📧 [hopedeveloper08@gmail.com](mailto:hopedeveloper08@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/reza-shahraki) · 🎂 08 August 2001  
 
@@ -12,11 +12,25 @@ A Software Engineer specializing in full-stack web development. I engineer robus
 
 ---
 
-Front-End: React, Tailwind CSS
+**Front-End Frameworks & Libraries:**
 
-Back-End: Python, Django, Django REST Framework (DRF), FastAPI
+- React.js
+<!-- - Next.js (SSR, SSG) -->
+<!-- - Redux, React Router -->
 
-AI & Data: LLM Application, Prompt Engineering, Data Analysis, Machine Learning
+**Styling & UI Frameworks:**
+
+- Tailwind CSS
+- MUI
+- Bootstrap
+
+**Familiar with:**
+
+- Django, Django REST Framework, FastAPI
+- Large Language Models Application, RAG Systems, Prompt Engineering
+- Machine Learning, Data Analysis
+<!-- - React Native -->
+<!-- - UI, UX -->
 
 ---
 
