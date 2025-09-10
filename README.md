@@ -1,36 +1,35 @@
 # Reza Shahraki  
 
-**Software Engineer | Front-End Developer**  
+**🎓 Computer Engineering graduate | 🚀 Aspiring Software Engineer | 🧑‍💻 Passionate about building practical applications**  
 📍 Shiraz, Iran · 📧 [hopedeveloper08@gmail.com](mailto:hopedeveloper08@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/reza-shahraki) · 🎂 08 August 2001  
 
 ---
 
-## About me
-
-A Software Engineer specializing in full-stack web development. I engineer robust, dynamic front-end interfaces with React, styled with Tailwind CSS, and build powerful, scalable back-end systems with Django. My skill set extends beyond traditional web development; I have a foundational background in data analysis and machine learning, which informs my approach to building intelligent systems. I am particularly passionate about and skilled in developing cutting-edge AI applications, leveraging Large Language Models (LLMs) and mastering essential techniques like prompt engineering to create innovative, next-generation solutions.
+## 🧑‍💼 About Me
+- I'm a **backend developer** with strong foundations in **Python**.  
+- Experienced in both **frontend (React)** and **backend (Django, FastAPI, DRF)**.  
+- Worked on **LLM-based applications**:
+  - Undergraduate project: **University Chatbot** powered by NLP.  
+  - Paper on **RAG (Retrieval-Augmented Generation) architecture**.  
+- Recently diving deeper into **Machine Learning & Deep Learning**, with a focus on applying AI in real-world projects.  
+- I enjoy building **useful, working products** more than doing theoretical research.  
 
 ---
 
-**Front-End Frameworks & Libraries:**
+## 🛠 Skills
 
-- React.js
-<!-- - Next.js (SSR, SSG) -->
-<!-- - Redux, React Router -->
+### Programming & Tools
+- **Languages:** Python, JavaScript, SQL  
+- **Frontend:** React, TailwindCSS  
+- **Backend:** Django, Django REST Framework, FastAPI  
+- **Databases:** PostgreSQL, SQLite  
+- **ML/AI:** Pandas, Scikit-learn, TensorFlow, PyTorch, Hugging Face, LangChain  
 
-**Styling & UI Frameworks:**
-
-- Tailwind CSS
-- MUI
-- Bootstrap
-
-**Familiar with:**
-
-- Django, Django REST Framework, FastAPI
-- Large Language Models Application, RAG Systems, Prompt Engineering
-- Machine Learning, Data Analysis
-<!-- - React Native -->
-<!-- - UI, UX -->
+### Areas of Interest
+- Backend Development  
+- Practical AI Applications (LLMs, Agents, NLP, Computer Vision)  
+- Fullstack Projects with real-world impact  
 
 ---
 
