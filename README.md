@@ -1,6 +1,6 @@
 # Reza Shahraki  
 
-**AI Engineer**  
+**Backend Developer Python/Django**  
 📍 Shiraz, Iran · 📧 [hopedeveloper08@gmail.com](mailto:hopedeveloper08@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/reza-shahraki) · 🎂 08 August 2001  
 
@@ -9,9 +9,9 @@
 ## 🛠 Skills
 
 ### Programming & Tools
+- **Backend:** Django, Django REST Framework, FastAPI  
 - **ML/AI:** Pandas, Scikit-learn, TensorFlow, PyTorch, Hugging Face, LangChain  
 - **Frontend:** React, TailwindCSS  
-- **Backend:** Django, Django REST Framework, FastAPI  
 
 ---
 
@@ -25,12 +25,8 @@
 
 ## Professional Experience  
 
-**AI Developer**<br>
-Vali-E-Asr University - 2025 
-
-
 **Backend Developer**<br>
-Vali-E-Asr University - 2024
+Vali-E-Asr University - 2024, 2025
 
 
 **Python Developer**<br> 
