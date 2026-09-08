@@ -1,6 +1,6 @@
 # Reza Shahraki  
 
-**Backend Developer Python/Django**  
+**Full-Stack Developer React/Django**  
 📍 Shiraz, Iran · 📧 [hopedeveloper08@gmail.com](mailto:hopedeveloper08@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/reza-shahraki) · 🎂 08 August 2001  
 
@@ -9,6 +9,7 @@
 ## 🛠 Skills
 
 ### Programming & Tools
+- **Frontend:** Tailwind, React.js, Next.js  
 - **Backend:** Django, Django REST Framework, FastAPI  
 - **ML/AI:** Pandas, Scikit-learn, TensorFlow, PyTorch, Hugging Face, LangChain  
 - **Frontend:** React, TailwindCSS  
